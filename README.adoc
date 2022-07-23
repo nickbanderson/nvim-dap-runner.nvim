@@ -1,0 +1,6 @@
+= DAP Runner
+
+Built to ease project-specific DAP configurations.
+
+A special C++ project can have special settings which are merged with
+generic C++ DAP settings to run the debug adapter.
